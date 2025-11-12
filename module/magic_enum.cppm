@@ -1,6 +1,7 @@
 module;
 
 #include <version>
+#include <format>
 #ifndef MAGIC_ENUM_USE_STD_MODULE
 #include <magic_enum/magic_enum_all.hpp>
 #endif
